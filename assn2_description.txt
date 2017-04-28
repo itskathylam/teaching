@@ -1,0 +1,22 @@
+Assignment 2 
+Version 1
+Date: April 27, 2017 
+By: Kathy N. Lam
+
+
+Data file: 
+assn2_seqs.fa
+
+Task:
+Instead of writing a Python script (i.e., Assignment 1), we will use the shell to achieve the same result.
+That is: using bash commands, generate a list of all of the sequence identifiers in the fasta file. 
+The output should be saved to a new file. 
+
+Tips:
+The following commands may be useful to know: 
+grep
+cut
+> (redirect standard output)
+| (pipe)
+diff
+

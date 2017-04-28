@@ -1,0 +1,29 @@
+Assignment 1 
+Version 1
+Date: March 23, 2017 
+By: Kathy N. Lam
+
+
+Data file: 
+seqs.fa
+
+Task:
+Write a Python script that will output a list of all of the sequence identifiers in the fasta file. 
+The output can simply be printed to the screen, or if you are feeling ambitious, can be saved in a new file. 
+Note that the greater-than signs (“>”) are not a part of the sequence identifier!
+
+Expected output:
+v6hpcrq3xkymiazmk4q2gt28q983u6wceq978g4i3i7yrwo1fzekhl52vzwt 
+romt3wezfr5ax2bhof2peex3y9o75n0m19uod01ekql61y1al0xjfw1w7fle 
+wrtqujpskw4zsowfh14614ocqprl34imsfjn0k5z4hfsxan0xt233l3cly2o
+... and so on
+
+Tips:
+There are many different ways of doing this. I would suggest the following general approach: 
+1. open the file
+2. iterate through the lines in the file
+3. check the line for the presence of the “>”
+4. when this character is found, do something. :)
+
+Note:
+If you need help installing Python and getting started, this is totally normal and I can help with this.
