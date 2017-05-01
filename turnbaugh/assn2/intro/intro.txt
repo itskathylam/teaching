@@ -1,0 +1,24 @@
+
+NOTE:
+-Not all of what I demo will be relevant to the assignment
+-Some demos are to illustrate the utility of some commands
+
+
+cat example.txt
+
+head example.txt
+
+head -10 example.txt
+
+head -5 example.txt
+
+head example.txt > output.txt
+
+cut -c 1 example.txt
+
+grep "discovered" example.txt
+grep -v "discovered" example.txt
+
+head example.txt | grep "discovered" 
+
+
