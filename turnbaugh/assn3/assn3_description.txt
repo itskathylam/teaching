@@ -1,0 +1,55 @@
+Assignment 3
+Version 1
+Date: June 2, 2017
+By: Kathy N. Lam
+
+
+Data file:
+
+NC_013204.gb
+
+
+Task:
+
+The data file is a Genbank file of the E. lenta DSM 2243 genome (yay!). We will be using 
+BioPython in this assignment (http://biopython.org/wiki/Biopython). As an exercise, try 
+installing it on your own; if you have issues, I can help. (Note: if you have successfully 
+installed it, the import line should not lead to an error if you run the script)
+
+Use Biopython to parse this file for CDS features that have the word "reductase" in the 
+product annotation. When found, write the following to a new file: (1) locus tag, 
+(2) product, and (3) protein sequence. These should be separated by a tab; please refer 
+to the expected output file.
+
+
+Tips: 
+
+I suggest the following general strategy:
+
+- use SeqIO to read the file; specify "genbank" format, and use the handle "seq_record"
+- iterate through each feature, using "seq_record.features"
+
+    - exercise: - print the feature and take some time to explore this output; open the 
+    			  Genbank file in simple text editor and notice how the various elements 
+    			  in the printed output relate to the Genbank file
+                - notice that each feature has a dictionary called "qualifiers", which
+                  contains key-value pairs
+                - notice that the values are in a list of length 1 (this is important
+                  for when you need to access them later!); you can tell that this is
+                  a list by the square brackets
+
+- check if the feature "type" is CDS
+
+    - note: there is a difference between the assignment operator (=) and the
+            equality operator (==). I had to learn this the hard way when I first
+            started scripting on my own. :p
+    
+- check if the "product" contains the word "reductase"
+- write the requested feature information to a new file, in tabular format
+  (note: the tab character is "\t")
+
+    - locus tag
+    - product
+    - translation
+
+    
