@@ -1,0 +1,58 @@
+Assignment 4
+Version 1
+Date: August 6, 2017
+By: Kathy N. Lam
+
+
+Data files:
+
+NC_000913.gb
+NC_002516.gb
+NC_003047.gb
+NC_004663.gb
+NC_009089.gb
+
+
+Task:
+
+There are 5 Genbank files, each with one sequence record, representing a complete bacterial chromosome. The task is
+to extract the coding sequence for the recA gene from these files. You can simply print results out to the terminal,
+separating the results for each file by a blank line:
+
+- the description of the sequence record
+- the feature location start, end, and strand
+- the coding sequence for recA
+
+
+General Strategy:
+
+-   import two modules: "os" and "SeqIO" from Bio
+-   use "os.listdir()" to get a list of the files in the directory
+-   sort the list using ".sort()" - this will ensure you process files in the same order as my expcted output
+-   process only those files that are genbank files 
+-   use "SeqIO.read" to read the file 
+-   iterate through the features
+-   check whether the feature type is "gene"
+-   check whether the gene feature has a gene qualifier equal to "recA"
+
+        NOTE:   - recall from the last assignment that the feature qualifiers are stored in a dictionary!
+        
+                - some gene features do not have a gene qualifier (you can see this in the gb file); if you
+                  try to access it, you will get an error and the script will not be able to proceed. You
+                  can avoid this by first checking that the key exists in the dictionary before trying to
+                  access it; i.e., `if "gene" in feature.qualifiers`
+            
+-   when recA is found, print the required information, separating the results for each file by a newline character
+-   print the record "description"
+-   print the feature location information, i.e., feature.location.start/end/strand
+-   print the coding sequence of the gene using "seq_record.seq[x:y]" where x and y are the start and end coordinates
+
+         NOTE:  - The coding sequence might be on the complement strand. The output of feature.location.strand will
+                  indicate this. If it is on the complement strand, use ".reverse_complement()" to obtain the correct
+                  coding sequence
+                
+Bonus:
+
+When I was making this assignment, I discovered that there is a convenient function called feature.extract(), for
+which you don't need to check strandedness; that is, it returns the correct coding sequence. Try it! And use the power
+of Google to help you.
