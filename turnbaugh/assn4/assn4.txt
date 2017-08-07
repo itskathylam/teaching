@@ -26,7 +26,7 @@ separating the results for each file by a blank line:
 
 General Strategy:
 
--   import two modules: "os" and "SeqIO" from Bio
+-   import two modules: "os", and "SeqIO" from Bio
 -   use "os.listdir()" to get a list of the files in the directory
 -   sort the list using ".sort()" - this will ensure you process files in the same order as my expcted output
 -   process only those files that are genbank files 
