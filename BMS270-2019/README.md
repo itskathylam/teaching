@@ -12,7 +12,7 @@ This is meant to be a fun, practical tutorial on making and refining high-qualit
 
 ### Tutorial materials  
 
-- [Outline and preparation](https://docs.google.com/document/d/1TkNCO3d67Ukr7KUVyw9Zku74hAfirFKWdmTXlHxRfSs/edit?usp=sharing) 
-- [Raster versus vector graphics]()
-- [Class exercises](https://docs.google.com/document/d/1RoGDJnwxY11gb14LLXEFUzFTdoTX0oTGN9pXbMIZ7vk/edit?usp=sharing)
-- [Figure critique]()
+- [Outline and preparation](https://docs.google.com/document/d/1TkNCO3d67Ukr7KUVyw9Zku74hAfirFKWdmTXlHxRfSs/edit?usp=sharing){target="_blank"} 
+- [Raster versus vector graphics](){target="_blank"}
+- [Class exercises](https://docs.google.com/document/d/1RoGDJnwxY11gb14LLXEFUzFTdoTX0oTGN9pXbMIZ7vk/edit?usp=sharing){target="_blank"}
+- [Figure critique](){target="_blank"}
