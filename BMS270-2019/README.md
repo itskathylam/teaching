@@ -16,6 +16,3 @@ This is meant to be a fun, practical tutorial on making and refining high-qualit
 - [Raster versus vector graphics]()
 - [Class exercises](https://docs.google.com/document/d/1RoGDJnwxY11gb14LLXEFUzFTdoTX0oTGN9pXbMIZ7vk/edit?usp=sharing)
 - [Figure critique]()
-
-<iframe src="https://docs.google.com/viewerng/viewer?url=https://docs.google.com/document/d/1TkNCO3d67Ukr7KUVyw9Zku74hAfirFKWdmTXlHxRfSs/edit?usp=sharing&hl=bn&embedded=true"></iframe>
-
