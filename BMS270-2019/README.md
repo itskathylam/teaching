@@ -2,8 +2,8 @@
 
 ### Tutorial 4: How to present microbiome data
 
-Date: Thursday, 5/23/2019
-Time:  1:00-3:00
+Date: Thursday, 5/23/2019 <br>
+Time:  1:00-3:00 <br>
 Room:  BH-209
 
 Plan: Kathy Lam (Turnbaugh lab) will give a hands-on tutorial discussing advanced tools for figure making, data visualization, and paper writing. Bring your laptop and, if you have one, a mouse. 
