@@ -1,6 +1,6 @@
 # BMS 270 SP2019: Beneficial Microbiomes
 
-### Tutorial 4: How to present microbiome data
+### Tutorial 4
 
 Date: Thursday, 5/23/2019 <br>
 Time:  1:00-3:00 <br>
