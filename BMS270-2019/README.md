@@ -13,6 +13,6 @@ This is meant to be a fun, practical tutorial on making and refining high-qualit
 ### Tutorial materials  
 
 - [Preparation and outline](https://docs.google.com/document/d/1TkNCO3d67Ukr7KUVyw9Zku74hAfirFKWdmTXlHxRfSs/edit?usp=sharing)
-- [Raster versus vector graphics](https://docs.google.com/presentation/d/1Kqs2QZgpm5abRRZYeexnHP48OC5yKcgl-8TpG3S5jrs/edit?usp=sharing)
+- [Slides](https://docs.google.com/presentation/d/1Kqs2QZgpm5abRRZYeexnHP48OC5yKcgl-8TpG3S5jrs/edit?usp=sharing)
 - [Class exercises](https://docs.google.com/document/d/1RoGDJnwxY11gb14LLXEFUzFTdoTX0oTGN9pXbMIZ7vk/edit?usp=sharing)
 - [Figure critique]()
