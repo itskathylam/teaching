@@ -16,3 +16,4 @@ This is meant to be a fun, practical tutorial on making and refining high-qualit
 - [Slides](https://docs.google.com/presentation/d/1Kqs2QZgpm5abRRZYeexnHP48OC5yKcgl-8TpG3S5jrs/edit?usp=sharing)
 - [Class exercises](https://docs.google.com/document/d/1RoGDJnwxY11gb14LLXEFUzFTdoTX0oTGN9pXbMIZ7vk/edit?usp=sharing)
 - [Figure to critique](https://drive.google.com/file/d/1R2dS-C_a1-9ejyVUvj7XdcA5tuJeCuN4/view?usp=sharing)
+- Data for ggplot2: [data1.csv](https://raw.githubusercontent.com/itskathylam/teaching/master/BMS270-2019/data1.csv) [data2.csv](https://raw.githubusercontent.com/itskathylam/teaching/master/BMS270-2019/data2.csv)
