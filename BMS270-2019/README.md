@@ -8,7 +8,7 @@ Room:  BH-209
 
 Plan: Kathy Lam (Turnbaugh lab) will give a hands-on tutorial discussing tools for figure making, data visualization, and paper writing. Bring your laptop and, if you have one, a mouse. 
 
-This is meant to be a fun, practical tutorial on making and refining high-quality diagrams and figures for use in presentations, posters, or publications. If time permits, setting up a manuscript outline in Google Docs for collaborative writing will be covered as well using the Google Docs-compatible reference manager Paperpile.
+This is meant to be a fun, practical tutorial on making and refining high-quality diagrams and figures for use in presentations, posters, or publications using the free, open-source vector graphics editor Inkscape. If time permits, setting up a manuscript outline in Google Docs for collaborative writing will be covered as well using the Google Docs-compatible reference manager Paperpile.
 
 ### Tutorial materials  
 
