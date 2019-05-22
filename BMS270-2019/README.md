@@ -2,7 +2,7 @@
 
 ### Tutorial 4
 
-Date: Thursday, 5/23/2019 <br>
+Date: Thursday May 5, 2019 <br>
 Time:  1:00-3:00 <br>
 Room:  BH-209
 
